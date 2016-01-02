@@ -1,3 +1,24 @@
+## openni2_launch (jade) - 0.2.2-0
+
+The packages in the `openni2_launch` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade openni2_launch` on `Sat, 02 Jan 2016 20:53:22 -0000`
+
+The `openni2_launch` package was released.
+
+Version of package(s) in repository `openni2_launch`:
+- upstream repository: https://github.com/ros-drivers/openni2_launch.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.2-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## openni2_launch (indigo) - 0.2.2-0
 
 The packages in the `openni2_launch` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo openni2_launch` on `Sat, 24 Jan 2015 04:35:04 -0000`
