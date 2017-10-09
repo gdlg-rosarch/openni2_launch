@@ -1,3 +1,26 @@
+## openni2_launch (lunar) - 0.2.3-0
+
+The packages in the `openni2_launch` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar openni2_launch` on `Mon, 09 Oct 2017 08:44:40 -0000`
+
+The `openni2_launch` package was released.
+
+Version of package(s) in repository `openni2_launch`:
+
+- upstream repository: https://github.com/ros-drivers/openni2_launch.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.7`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## openni2_launch (kinetic) - 0.2.2-0
 
 The packages in the `openni2_launch` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -t kinetic -r kinetic openni2_launch --new-track` on `Tue, 24 May 2016 01:31:13 -0000`
